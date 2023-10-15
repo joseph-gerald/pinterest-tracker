@@ -1,4 +1,4 @@
-# pintrest-tracker
+# pinterest-tracker
 Track and log peoples Pinterest activities.
 
 ## Features
